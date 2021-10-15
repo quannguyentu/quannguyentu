@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quannguyentu
 - 👀 I’m interested in Machine Learning (Cognitive Sci) and Software Engineering
-- 🌱 I’m currently learning Data Structure and Algorithm, Linear Algeabra 
+- 🌱 I’m currently learning Data Structure and Algorithm, Linear Algeabra and JavaScript
 - 📫 How to reach me: nguyentuquan602@gmail.com / 272-788-0560
 
 <!---
